@@ -1,0 +1,4 @@
+февр. 13, 2023 4:57:06 PM Hello_Java_lecture002.Ex005_Logger main
+WARNING: Тестовое логирование 1
+февр. 13, 2023 4:57:06 PM Hello_Java_lecture002.Ex005_Logger main
+INFO: Тестовое логирование 2

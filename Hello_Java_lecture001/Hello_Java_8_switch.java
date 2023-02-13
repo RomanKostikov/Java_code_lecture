@@ -1,7 +1,7 @@
 package Hello_Java_lecture001;
 
 // Оператор выбора
-import java.util.Scanner;
+// import java.util.Scanner;
 
 // class Program {
 //     public static void main(String[] args) {
